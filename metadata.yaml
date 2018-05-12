@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9797'
     url: http://www.gutenberg.org/2009/agents/9797
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21247#Browning-s-Heroines
 gutenberg_issued: '2007-04-28'
 gutenberg_type: Text
 identifiers:
